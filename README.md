@@ -11,6 +11,8 @@
 
 [Project Valhalla](http://openjdk.java.net/projects/valhalla/)
 
+[State of the Specialization](http://cr.openjdk.java.net/~briangoetz/valhalla/specialization.html)
+
 [The Java Language Specification](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 
 
