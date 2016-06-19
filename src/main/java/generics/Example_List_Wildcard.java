@@ -11,12 +11,12 @@ public class Example_List_Wildcard {
         printAll_raw(ints);
     }
 
-    private static void printAll_wildcard(List<?> collection) {
-        collection.forEach(System.out::println);
+    private static void printAll_wildcard(List<?> list) {
+        list.forEach(System.out::println);
     }
 
     // Note compiler warning for raw type
-    private static void printAll_raw(List collection) {
-        collection.forEach(System.out::println);
+    private static void printAll_raw(List list) {
+        list.forEach(System.out::println);
     }
 }
