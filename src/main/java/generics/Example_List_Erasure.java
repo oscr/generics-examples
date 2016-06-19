@@ -10,7 +10,7 @@ public class Example_List_Erasure {
 
         System.out.println(apples.getClass() == candies.getClass());
     }
-    
+
     class Apple {}
     class Candy {}
 }
