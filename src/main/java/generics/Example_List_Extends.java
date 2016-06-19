@@ -9,6 +9,6 @@ public class Example_List_Extends {
         List<? extends Number> numbers = ints;
 
         // Compile time error
-        // numbers.add(new Integer(1));
+        // numbers.add(1);
     }
 }
