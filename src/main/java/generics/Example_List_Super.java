@@ -18,11 +18,11 @@ public class Example_List_Super {
         printValues(objs);
     }
 
-    public static <T> void addValue(List<? super Integer> to) {
-        to.add(1);
+    public static <T> void addValue(List<? super Integer> list) {
+        list.add(1);
     }
 
-    public static <T> void printValues(List<?> from) {
-        from.forEach(System.out::println);
+    public static <T> void printValues(List<?> list) {
+        System.out.println(list);
     }
 }
