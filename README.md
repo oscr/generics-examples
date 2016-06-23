@@ -13,10 +13,11 @@
 
 [State of the Specialization](http://cr.openjdk.java.net/~briangoetz/valhalla/specialization.html)
 
+[State of the Values](http://cr.openjdk.java.net/~jrose/values/values.html)
+
 [The Java Language Specification](https://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 
 
 ## Theory
 
 [Wikipedia: Covariance and contravariance](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science))
-
