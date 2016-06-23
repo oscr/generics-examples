@@ -8,7 +8,7 @@ public class Example_List_Wildcard {
         List<Integer> ints = Arrays.asList(1, 2);
 
         printAll_wildcard(ints);
-        printAll_raw(ints);
+        //printAll_raw(ints);
     }
 
     private static void printAll_wildcard(List<?> list) {
